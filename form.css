@@ -1,0 +1,179 @@
+body{
+  margin: 0;
+  padding: 0;
+  position: relative;
+  color: black;
+}
+
+.kepala{
+  width: 100%;
+  height: 85px;
+  background: #ff8080;
+  color: white;
+  font-family: "Adigiana Toybox";
+}
+.isi-kepala{
+  width: 100%;
+  margin-left: 600px;
+}
+.isi-kepala h2{
+  margin: 0;
+  font-size: 35px;
+  padding: 16px 0;
+  float: left;
+}
+.form-kepala{
+  width: 400px;
+  float: right;
+  padding-top: 15px;
+}
+.form-kepala label{
+  width: 150px;
+  display: block;
+  float: left;
+  margin-right: 12px;
+}
+#txtForm{
+  border: 1px solid;
+  width: 150px;
+  margin-right: 6px;
+}
+#Login{
+  background: #4267b2;
+  border: 1px solid #29487d;
+  color: white;
+  padding: 3px 8px;
+}
+.form-kepala a{
+  text-decoration: none;
+  color: #9cb48d;
+  margin-left: 163px;
+}
+
+.konten{
+  background-image: linear-gradient(to bottom,#fa9797,#d0dae9);
+  width: 100%;
+  height: 578px;
+  font-family: Abibas;
+}
+
+.isi-konten{
+  margin: auto;
+  width: 980px;
+}
+
+.isi-konten h2{
+  width: 500px;
+  color: #272323;
+  float: left;
+  margin-left: -50px;
+}
+
+.isi-konten img{
+  position:absolute;
+  display: block;
+  margin-top: 70px;
+  margin-left: -250px;
+}
+
+.konten-daftar{
+  float: right;
+  width: 443px;
+}
+
+.konten-daftar p{
+  margin: 0 0 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.konten-daftar h1{
+  margin-bottom: 10px;
+}
+#text1{
+  font-size: 18px;
+  padding: 8px;
+  border: 1px solid #bdc7d8;
+  border-radius: 7px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+#text2{
+  font-size: 18px;
+  padding: 8px;
+  border: 1px solid #bdc7d8;
+  border-radius: 7px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+#text3{
+  font-size: 18px;
+  padding: 8px;
+  border: 1px solid #bdc7d8;
+  border-radius: 7px;
+  width: 413px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+#text4{
+    font-size: 18px;
+    padding: 8px;
+    border: 1px solid #bdc7d8;
+    border-radius: 7px;
+    width: 413px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.konten-daftar span{
+  display: block;
+  width: 100%;
+  float: left;
+  height: 40px;
+}
+.konten-daftar select{
+  padding: 6px;
+  float: left;
+}
+.konten-daftar a{
+  text-decoration: none;
+  font-size: 13px;
+  width: 142px;
+  display: block;
+  float: left;
+  margin-left: 20px;
+}
+.konten-daftar label{
+  font-size: 20px;
+}
+.text{
+  width: 350px;
+}
+.text i{
+  font-style: normal;
+  font-size: 12px;
+  color: #77778a;
+}
+#btnRegis{
+  background-image: linear-gradient(#fa9797,#a40f0f);
+  color: white;
+  border: 1px solid #a40f0f;
+  width: 175px;
+  height: 40px;
+  margin: 10px 0;
+  padding: 8px 14px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  border-color: #a40f0f,#a40f0f,#a40f0f;
+}
+.textt h4{
+  font-style: normal;
+  color: #77778a;
+}
+.tulisan p{
+  font-style: normal;
+  color: blue;
+  margin-left: 520px;
+}
+
